@@ -1,1 +1,1 @@
-echo '<?php ?>' > 
+<?php echo "" ?>
